@@ -9,7 +9,7 @@ int main(int argc, char const *argv[])
     double impuesto = 0.15;
 
 
-    cout << "Ingrese el subtotal de la factura: ";
+    
     cin >> subtotal;
 
     total = subtotal + (subtotal * 0.15);
