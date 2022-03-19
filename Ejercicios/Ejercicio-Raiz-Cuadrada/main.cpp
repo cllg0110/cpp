@@ -8,7 +8,7 @@ int main(int argc, char const *argv[])
     double numero = 0;
     double numRaizCuadrada = 0;
 
-    cout << "Ingrese un numero para determinar la  Raiz Cuadrada: ";
+    cout << "Ingrese un numero para calcular la Raiz Cuadrada: ";
     cin >> numero;
 
     numRaizCuadrada = sqrt(numero); 
