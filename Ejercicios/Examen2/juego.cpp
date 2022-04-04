@@ -176,7 +176,7 @@ void puntosx()
 
 void proceso(char &tecla, int &puntos)
 { 
-	Puntos = puntos;
+	Puntos = Puntos;
 	borrarcuerpo();
 	comida();
 	puntosx();
